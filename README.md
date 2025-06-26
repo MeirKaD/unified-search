@@ -3,8 +3,9 @@
 A sophisticated multi-modal search agent built with [LangGraph](https://github.com/langchain-ai/langgraph) that intelligently routes between Google search and web scraping based on query intent classification. Designed for use with [LangGraph Server](https://langchain-ai.github.io/langgraph/concepts/langgraph_server/#langgraph-server) and [LangGraph Studio](https://langchain-ai.github.io/langgraph/concepts/langgraph_studio/) for visual debugging.
 
 <div align="center">
-<img src="./static/studio_ui.png" alt="Graph view in LangGraph studio UI" width="75%" />
+  <img src="https://github.com/user-attachments/assets/1fba5659-1ba9-4970-bcda-949465c96872" alt="2025-06-26_15h18_46">
 </div>
+
 
 ## 🚀 Features
 
